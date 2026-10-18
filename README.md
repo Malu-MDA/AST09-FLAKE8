@@ -1,10 +1,5 @@
 # AST09 — Qualidade de Código com Flake8
 
-![Python](https://img.shields.io/badge/Python-3.15%2B-blue?logo=python)
-![Flake8](https://img.shields.io/badge/Code%20Quality-Flake8-orange)
-![Pytest](https://img.shields.io/badge/Testing-Pytest%20Style-green)
-![CI](https://img.shields.io/badge/CI-GitHub%20Actions-2088FF?logo=githubactions)
-
 ## Sobre o projeto
 
 Atividade prática da disciplina de Análise e Solução de Testes (AST), com foco na implementação de ferramentas de linting para melhorar a qualidade, a legibilidade e a padronização de código Python.
@@ -68,3 +63,4 @@ Se nenhuma mensagem for exibida, o Flake8 não encontrou violações nas regras 
 ## Integração contínua
 
 O GitHub Actions executa o Flake8 automaticamente a cada envio de código para o repositório e em pull requests direcionados à branch principal.
+
